@@ -1,2 +1,2 @@
 # Neely Mann, Junior Full Stack Web Developer
-## Visit My Portfolio [Here] (https://neelyanne.github.io/PortfolioTP/)
+## Visit My Portfolio [Here](https://neelyanne.github.io/PortfolioTP/)
