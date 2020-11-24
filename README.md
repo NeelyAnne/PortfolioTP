@@ -126,5 +126,3 @@ Projects and Links:
 - [Java Core Foundations 2](https://github.com/NeelyAnne/maven.numbers-triangles-tables) | [Travis Build](https://travis-ci.com/github/NeelyAnne/maven.numbers-triangles-tables)
 - [Java Core Foundations 1](https://github.com/NeelyAnne/maven.java-fundamentals) | [Travis Build](https://travis-ci.com/github/NeelyAnne/maven.java-fundamentals)
 - [Mini Arcade Repository](https://github.com/NeelyAnne/maven_simple-arcade)
-
----
